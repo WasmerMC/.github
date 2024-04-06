@@ -1,9 +1,10 @@
 ---
-name: 🐛 Bug Report
-about: Use this temlate if you fount a bug.
-title: "[Bug]"
+name: "\U0001F41B Bug Report"
+about: Use this if you fount a bug.
+title: "\U0001F41B Bug Report"
 labels: bug
 assignees: ''
+
 ---
 
 **Describe the Bug**
